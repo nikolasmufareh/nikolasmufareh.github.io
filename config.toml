@@ -1,0 +1,102 @@
+baseURL = "https://nikolasmufareh.github.io/nikolasmufareh.github.io"
+languageCode = "en-us"
+title = "Mufareh Portfolio"
+theme = "personal-web"
+copyright=""
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = "Nikolas Mufareh"
+  sub = "Harford Tech CADD Student"
+
+[params.main]
+  latestPublishHeader = " "
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  breadcrumb = true
+  accentColor = "#FD3519"
+  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+  rendererSafe = false # set to true if wish to remove the unsafe renderer setting below (recommended). Titles will not be run through markdownify
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Bummer!'
+  p = "It seems that this page doesn't exist."
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "drawings"
+  portfolio = "resume"
+
+[params.sidebar]
+  backgroundImage = '/images/sidebar.jpg' # header background image - default "/images/default-sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "images/uglyface.jpg" # - default "/images/edna-west.jpg"
+[params.assets]
+  favicon = ""
+  customCSS = ""
+
+[params.social]
+  github = "https://github.com/nikolasmufareh"
+  twitter = ""
+  linkedin = "https://www.linkedin.com/in/nikolas-mufareh-8a311a340/"
+  medium = ""
+  codepen = ""
+  facebook = ""
+  youtube = ""
+  instagram = ""
+  gitlab = ""
+  keybase = ""
+
+[params.contact]
+  email = "nikoalasmufareh@gmail.com"
+  text= "nikolasmufareh@gmail.com" # text of the contact link in the sidebar. If email params.contact.email is defined
+  
+[menu]
+
+[[menu.main]]
+  identifier = "Resume"
+  name = "Resume"
+  title = "Resume"
+  url = "/resume/"
+  weight = -110
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Drawings"
+  title = "Drawings"
+  url = "/post/"
+  weight = -100
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
