@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resume on Mufareh Portfolio</title>
+    <link>https://nikolasmufareh.github.io/resume/</link>
+    <description>Recent content in Resume on Mufareh Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    <atom:link href="https://nikolasmufareh.github.io/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume Download</title>
+      <link>https://nikolasmufareh.github.io/resume/resume-download/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <guid>https://nikolasmufareh.github.io/resume/resume-download/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1SNx1BAc8vOPukdLs9V01Jn_gkN3uT6xk/view?usp=drive_link&#34;&gt;Google Drive Link&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

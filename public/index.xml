@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on Mufareh Portfolio</title>
+    <link>https://nikolasmufareh.github.io/</link>
+    <description>Recent content in About Me on Mufareh Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Apr 2025 00:29:26 -0400</lastBuildDate>
+    <atom:link href="https://nikolasmufareh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>11th Grade Drawings</title>
+      <link>https://nikolasmufareh.github.io/post/11th/</link>
+      <pubDate>Sat, 26 Apr 2025 00:29:26 -0400</pubDate>
+      <guid>https://nikolasmufareh.github.io/post/11th/</guid>
+      <description>&lt;p&gt;These are the Drawing of a Ranch House that I Worked on for Most of 11th Grade&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>10th Grade AutoCAD Drawings</title>
+      <link>https://nikolasmufareh.github.io/post/10th/</link>
+      <pubDate>Sat, 02 Nov 2024 23:16:08 -0400</pubDate>
+      <guid>https://nikolasmufareh.github.io/post/10th/</guid>
+      <description>&lt;p&gt;These are the Orthographic and Isometric Drawings That I Completed in 10th Grade in AutoCAD&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>9th Grade 3D Drawings</title>
+      <link>https://nikolasmufareh.github.io/post/9th-3d/</link>
+      <pubDate>Sat, 02 Nov 2024 22:57:52 -0400</pubDate>
+      <guid>https://nikolasmufareh.github.io/post/9th-3d/</guid>
+      <description>&lt;p&gt;These are the 3D Drawings That I Completed Primarily in TinkerCAD in 9th Grade&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>9th Grade Hand Drawings</title>
+      <link>https://nikolasmufareh.github.io/post/9th-hand/</link>
+      <pubDate>Sat, 02 Nov 2024 21:12:29 -0400</pubDate>
+      <guid>https://nikolasmufareh.github.io/post/9th-hand/</guid>
+      <description>&lt;p&gt;These are the Orthographic Hand Drawings That I Completed in 9th Grade&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume Download</title>
+      <link>https://nikolasmufareh.github.io/resume/resume-download/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <guid>https://nikolasmufareh.github.io/resume/resume-download/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1SNx1BAc8vOPukdLs9V01Jn_gkN3uT6xk/view?usp=drive_link&#34;&gt;Google Drive Link&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
