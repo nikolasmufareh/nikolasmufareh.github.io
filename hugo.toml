@@ -43,7 +43,7 @@ pygmentsCodeFences=true
 [params.sidebar]
   backgroundImage = '/images/sidebar.jpg' # header background image - default "/images/default-sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "images/blueugg.jpg" # - default "/images/edna-west.jpg"
+  logo = "images/My Logo.svg" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""
