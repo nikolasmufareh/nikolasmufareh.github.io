@@ -16,3 +16,5 @@ testimonial:
 ---
 
 [Google Drive Link](https://drive.google.com/file/d/1UmuQKTxXApX_iKQtMsnEjnUjX58cpGia/view?usp=sharing)
+
+Note: If I sent you a resume directly, use that one instead. The one here may not be up to date.
